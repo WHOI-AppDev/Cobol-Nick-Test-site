@@ -5,6 +5,8 @@
  * @package WordPress
  */
 
+ /* added asome crap*/
+ 
 /**
  * Whether this is an XML-RPC Request
  *
