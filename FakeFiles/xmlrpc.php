@@ -5,7 +5,19 @@
  * @package WordPress
  */
 
+<<<<<<< HEAD
+ 
+ 
+ /*
+ 
+ Added some branch crap
+ 
+ */
+ 
+ 
+=======
  /* added asome crap*/
+>>>>>>> refs/remotes/origin/master
  
 /**
  * Whether this is an XML-RPC Request
