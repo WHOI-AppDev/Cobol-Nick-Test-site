@@ -10,7 +10,7 @@
  
  /*
  
- Friday 4pm
+ Friday 410pm
  
  */
  
