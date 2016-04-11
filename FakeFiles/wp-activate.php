@@ -17,6 +17,9 @@
  
 
  /* Master Monday 1212 */
+ /*
+ Monday master 230
+ */
 
 define( 'WP_INSTALLING', true );
 /*
