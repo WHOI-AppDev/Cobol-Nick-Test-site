@@ -19,6 +19,12 @@
  /* Master Monday 1212 */
 
 define( 'WP_INSTALLING', true );
+/*
+
+Master 1220
+
+
+*/
 
 /** Sets up the WordPress Environment. */
 require( dirname(__FILE__) . '/wp-load.php' );
