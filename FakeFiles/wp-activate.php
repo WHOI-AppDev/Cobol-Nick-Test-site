@@ -5,6 +5,8 @@
  *
  * @package WordPress
  */
+ 
+ /* Monday1120 */
 
 define( 'WP_INSTALLING', true );
 
